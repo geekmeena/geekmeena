@@ -34,7 +34,7 @@ Committed to applying existing skills and continually learning new ones to contr
 - Developed machine learning models for real-time anomaly detection with automated alerts.  
 - Built S3-based static websites and REST APIs triggered through API Gateway.  
 
-### **Internship at Fortray Global Services** *(September - November 2024)*  
+### **Internship at Fortray Global Services** *(August 2024 - Present)*  
 - **Real-Time Data Processing**: Architected solutions with AWS Kinesis and DynamoDB for real-time NoSQL data warehousing.  
 - **EC2 Monitoring**: Configured CloudWatch alarms for CPU monitoring and automated email alerts.  
 - **Dynamic Scaling**: Implemented Auto Scaling for EC2 instances, reducing costs and enhancing performance.  

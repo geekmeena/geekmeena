@@ -20,9 +20,14 @@ Committed to applying existing skills and continually learning new ones to contr
 ---
 
 ## 🧰 **Technical Skills**  
-**Cloud Services**: AWS (EC2, ELB, RDS, EKS, DynamoDB, S3, VPC, Lambda, SQS, SNS)  
-**Programming & Scripting**: Python, Shell Scripting, AWS CLI  
-**DevOps Tools**: Git, GitLab CI/CD, Terraform, Kubernetes  
+**Cloud Services**: AWS (EC2, ELB, RDS, EKS, DynamoDB, S3, VPC, Lambda, SQS, SNS), Microsoft Azure (VMs, Azure AD, Monitor)  
+**Programming & Scripting**: Python, Shell Scripting, AWS CLI, Bash  
+**DevOps Tools**: Git, GitLab CI/CD, Terraform, Kubernetes, GitHub Actions (basic), Docker (if applicable)  
+**Operating Systems**: Windows Server 2016/2019, Linux (Ubuntu, CentOS)  
+**Networking**: VPC, TCP/IP, DNS, NAT, Routing, Subnetting, VPNs, Firewalls  
+**Identity & Access Management**: AWS IAM, Azure Active Directory, MFA  
+**Monitoring & Security**: AWS CloudWatch, Azure Monitor, Security Groups, MFA Configuration
+
 
 ---
 
@@ -45,14 +50,12 @@ Committed to applying existing skills and continually learning new ones to contr
 ---
 
 ## 🏫 **Education**  
-- **Bachelor of Computer Science** *(BITS Pilani)* — 2 Years Completed  
-- **HRM Analytics** *(University of East London)* — 71% (Distinction)  
-- **Master of Commerce** *(HP University)* — 52% (2012)  
-- **Diploma in Education** — 89% (2008)  
-- **Bachelor of Commerce** *(Delhi University)* — 55% (2006)  
-- **Higher Secondary (12th)** — 70% (2003)  
-- **High School (10th)** — 63% (2000)  
-
+- **Bachelor of Computer Science** *(BITS Pilani)* 
+- **HRM Analytics** *(University of East London)* 
+- **Master of Commerce** *(HP University)*  
+- **Diploma in Education**  
+- **Bachelor of Commerce** *(Delhi University)*   
+ 
 ---
 
 ## 🛠️ **Projects & Contributions**  

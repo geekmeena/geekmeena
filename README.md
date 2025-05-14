@@ -7,15 +7,21 @@
 ---
 
 ## 📝 **Summary**  
-Motivated and aspiring **Cloud & DevOps enthusiast** eager to join the tech workforce.  
-Committed to applying existing skills and continually learning new ones to contribute meaningfully to the success of my employer, customers, and colleagues.  
+Cloud & DevOps Engineer in training with hands-on experience through ongoing internships, working with AWS, Kubernetes, Terraform, and CI/CD pipelines. 
+Actively contributing to real-world infrastructure projects including EC2 auto-scaling, serverless workflows, and containerized security monitoring.
+Eager to apply practical cloud skills, automate systems, and grow within a high-impact DevOps or Cloud Engineering team. Passionate about learning, problem-solving, and delivering reliable, scalable infrastructure.
 
 ---
 
-## ⚡ **Key Skills**  
-- Agile project collaboration  
-- Strong analytical and problem-solving abilities  
-- Effective team coordination and communication  
+## ⚡ **Key Skills**   
+- Cloud infrastructure planning and deployment (AWS, Azure)  
+- CI/CD pipeline integration and automation (GitLab CI/CD, GitHub Actions)  
+- Infrastructure as Code (Terraform, AWS CLI)  
+- Container orchestration and monitoring (Kubernetes, Prometheus, CloudWatch)  
+- Agile collaboration in cross-functional DevOps teams  
+- Strong analytical thinking and troubleshooting of cloud-based systems  
+- Clear documentation and effective team communication
+
 
 ---
 
@@ -31,36 +37,37 @@ Committed to applying existing skills and continually learning new ones to contr
 
 ---
 
-## 💼 **Experience**  
-
-### **Internship at BlueBit** *(August - October 2024)*  
-- Designed and implemented a security anomaly detection system for containerized applications.  
-- Collected logs and metrics using AWS CloudWatch, Kubernetes, Prometheus, and Fluent Bit.  
-- Developed machine learning models for real-time anomaly detection with automated alerts.  
-- Built S3-based static websites and REST APIs triggered through API Gateway.  
+## 💼 **Experience**   
 
 ### **Internship at Fortray Global Services** *(August 2024 - Present)*  
-- **Real-Time Data Processing**: Architected solutions with AWS Kinesis and DynamoDB for real-time NoSQL data warehousing.  
-- **EC2 Monitoring**: Configured CloudWatch alarms for CPU monitoring and automated email alerts.  
-- **Dynamic Scaling**: Implemented Auto Scaling for EC2 instances, reducing costs and enhancing performance.  
-- **Web Deployment**: Deployed EC2 instances with IIS for static websites, set up load balancers, and ensured DNS accessibility.  
-- **Kubernetes on AWS**: Migrated on-premise apps to AWS EKS, enabling CI/CD pipelines and observability with CloudWatch.  
-- **Serverless Solutions**: Built inventory management workflows using S3, Lambda, DynamoDB, and SNS.  
+#### Project 1: Real-Time Data Processing with AWS Kinesis & DynamoDB
+- Architected and deployed a real-time data ingestion and storage solution using AWS Kinesis and DynamoDB.
+- Enabled high-throughput NoSQL data warehousing for dynamic workloads.
+
+#### Project 2: EC2 Monitoring and Auto Scaling
+- Configured CloudWatch alarms to track CPU usage on EC2 instances.
+- Implemented Auto Scaling Groups to dynamically scale compute resources, improving system performance and reducing AWS costs.
+
+#### Project 3: Static Web Hosting & Load Balancing
+- Deployed static websites using EC2 and IIS; configured Elastic Load Balancers (ELB) and Route 53 for domain resolution and high availability.
+- Set up security groups, IAM roles, and EC2 auto-recovery features.
+
+#### Project 4: Kubernetes-Based App Migration (AWS EKS)
+- Migrated legacy applications to AWS Elastic Kubernetes Service (EKS).
+- Built CI/CD pipelines and enhanced observability using CloudWatch and Prometheus integrations.
+
+#### Project 5: Serverless Inventory Management System
+- Designed a serverless backend using AWS Lambda, API Gateway, DynamoDB, and S3.
+- Built notification workflows with AWS SNS; managed permissions using IAM roles and policies.
+
+#### Project 6: AI-Based Security Monitoring (R&D)
+- Built an anomaly detection system for containerized workloads on AWS and Azure using ML models.
+- Ingested logs via Fluent Bit; analyzed them with Prometheus; triggered real-time alerts via CloudWatch and SNS.
 
 ---
 
 ## 🏫 **Education**  
-- **Bachelor of Computer Science** *(BITS Pilani)* 
-- **HRM Analytics** *(University of East London)* 
-- **Master of Commerce** *(HP University)*  
-- **Diploma in Education**  
-- **Bachelor of Commerce** *(Delhi University)*   
+- **Bachelor of Computer Science - Bits Pilani** 
  
----
-
-## 🛠️ **Projects & Contributions**  
-Check out my projects on **[GitHub](https://github.com/projects)**.  
-
----
 
 ### 💬 *Let’s connect and build something amazing together!*

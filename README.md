@@ -39,7 +39,7 @@ Eager to apply practical cloud skills, automate systems, and grow within a high-
 
 ## 💼 **Experience**   
 
-### **Internship at Fortray Global Services** *(August 2024 - Present)*  
+### **Internship at Fortray Global Services** *(March 2025 - Present)*  
 #### Project 1: Real-Time Data Processing with AWS Kinesis & DynamoDB
 - Architected and deployed a real-time data ingestion and storage solution using AWS Kinesis and DynamoDB.
 - Enabled high-throughput NoSQL data warehousing for dynamic workloads.

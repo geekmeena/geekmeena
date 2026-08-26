@@ -1,103 +1,94 @@
 # Hi, I'm Meenakshi Sharma 👋
 
-**Cloud & Platform Engineer | AWS | Terraform | Kubernetes | Python Automation**
+**Cloud & Platform Engineer | AWS | Terraform | CI/CD | Python | Kubernetes**
 
-I’m a Cloud and Platform Engineer with hands-on experience in AWS infrastructure, Terraform, CI/CD pipelines, Kubernetes, Python/Bash automation, monitoring, and production support.
+I’m a Cloud and Platform Engineer with hands-on experience supporting AWS environments, infrastructure automation, CI/CD pipelines, monitoring, troubleshooting and Python/Bash automation.
 
-I enjoy building reliable cloud platforms, automating manual processes, troubleshooting infrastructure issues, and documenting clear technical workflows. I also have practical exposure to AI-enabled automation, document parsing, and event-driven data pipelines.
+I enjoy automating operational processes, troubleshooting cloud and application issues, and building reliable deployment workflows.
 
 ---
 
-## 🚀 What I Work With
+## 🚀 Technical Skills
 
 ### ☁️ Cloud & Infrastructure
-
-* AWS: EC2, ECS/Fargate, EKS, Lambda, S3, RDS, DynamoDB, IAM, VPC, ALB, Route 53, CloudWatch, SQS, SNS, Kinesis
-* Microsoft Azure: basic exposure to VMs, Azure AD, Azure Monitor
-* Infrastructure as Code: Terraform modules, remote state, reusable infrastructure templates
+- AWS: EC2, ECS/Fargate, Lambda, S3, RDS, DynamoDB, IAM, VPC, Route 53, CloudWatch
+- Microsoft Azure
+- Terraform and Infrastructure as Code
+- Linux
 
 ### ⚙️ DevOps & CI/CD
-
-* Git, GitLab CI/CD, Bitbucket, AWS CodePipeline, CodeDeploy, Jenkins
-* Docker, Kubernetes, EKS, Helm
-* Deployment workflows, release support, environment configuration
+- Git, GitLab CI/CD, Bitbucket
+- AWS CodePipeline and CodeDeploy
+- Docker, Kubernetes and Helm
+- Deployment and release workflows
 
 ### 🐍 Automation & Backend
-
-* Python automation, Bash/Shell scripting
-* REST APIs, Flask basics
-* PostgreSQL, RDS, DynamoDB, SQL fundamentals
+- Python and Bash
+- REST APIs and API integration
+- PostgreSQL, RDS, DynamoDB and SQL
 
 ### 📊 Monitoring & Troubleshooting
+- CloudWatch Logs, metrics and dashboards
+- Grafana and Prometheus
+- Application and infrastructure troubleshooting
+- Jira, Confluence and Swagger
 
-* CloudWatch Logs, Prometheus, Grafana, Fluent Bit
-* Logging, alerting, incident investigation, production troubleshooting
-* Jira, Confluence, Swagger documentation
-
-### 🤖 AI & Data Exposure
-
-* AWS Bedrock / Claude Vision
-* OpenAI API
-* AI document parsing
-* RAG / embeddings fundamentals
-* Kinesis, Lambda, DynamoDB event-driven pipelines
+### 🤖 AI & Data
+- AWS Bedrock
+- AI-assisted document processing
+- Kinesis, Lambda and DynamoDB event-driven pipelines
 
 ---
 
-## 💼 Current Experience
+## 💼 Experience
 
-### Cloud Engineer / Platform Engineer
+### Entry Level Engineer (Cloud/Platform)
 
-I currently support AWS infrastructure for a real estate and investment platform, working across cloud infrastructure, CI/CD, automation, monitoring, and application support.
+I currently support a cloud-based platform, working across AWS infrastructure, CI/CD, automation, monitoring and application support.
 
-Key work includes:
+My work includes:
 
-* Building and supporting AWS infrastructure using Terraform, ECS/Fargate, ALB, VPC, IAM, S3, DynamoDB, Cognito, Route 53, and SSM Parameter Store
-* Creating and maintaining CI/CD workflows using Bitbucket, AWS CodePipeline, and CodeDeploy
-* Developing Python automation and document-processing workflows using S3, python-docx, PyPDF, and AWS Bedrock Claude Vision
-* Supporting API documentation, Swagger, WebSocket messaging, Stripe webhooks, SendGrid workflows, and OTP verification
-* Troubleshooting issues using CloudWatch Logs and maintaining Jira tickets, Confluence notes, and deployment documentation
+- Supporting AWS infrastructure using ECS/Fargate, S3, DynamoDB, IAM, Cognito, Route 53 and Terraform
+- Building and supporting CI/CD workflows using Git/Bitbucket, AWS CodePipeline and CodeDeploy
+- Automating operational and backend tasks using Python and Bash
+- Supporting PostgreSQL/RDS database workflows and SQL-based data validation
+- Monitoring and troubleshooting applications using CloudWatch and Grafana
+- Maintaining deployment, configuration and troubleshooting documentation
 
 ---
 
 ## 🛠️ Featured Projects
 
 ### Real-Time Data Ingestion Pipeline
-
-Built an event-driven data pipeline using **AWS Kinesis, Lambda, DynamoDB, S3, Redshift, IAM, and CloudWatch** to process and monitor streaming data.
+Built an event-driven data pipeline using **AWS Kinesis, Lambda, DynamoDB and S3**, with IAM permissions and CloudWatch monitoring.
 
 ### AI Document Parsing Workflow
-
-Built a document-processing workflow using **S3, Python, python-docx, PyPDF, and AWS Bedrock Claude Vision** to extract text from Word, PDF, and scanned documents.
+Built a document-processing workflow using **S3, Python, python-docx, PyPDF and AWS Bedrock** for document extraction and processing.
 
 ### Kubernetes Security Monitoring
+Built a project using **EKS, Terraform, Fluent Bit, Prometheus and Grafana** to explore Kubernetes monitoring, logging and alerting.
 
-Provisioned **EKS infrastructure with Terraform** and used **Fluent Bit, Prometheus, Grafana, S3, Python/Lambda, and SNS** for container log monitoring, anomaly detection concepts, and alerting.
-
-### Real Estate Platform Infrastructure
-
-Designed and supported AWS infrastructure using **Terraform, ECS/Fargate, S3, IAM, DynamoDB/RDS, SNS/SQS, CI/CD, Swagger documentation, Stripe, SendGrid, and WebSocket-based messaging**.
+### Real Estate Platform Support
+Supported a cloud-based platform using **AWS, Terraform, CI/CD, CloudWatch and Git-based deployment workflows**.
 
 ---
 
 ## 📜 Certifications
 
-* AWS Certified Solutions Architect – Associate
-* AWS Certified Cloud Practitioner
-* Certified Kubernetes Administrator
-* AWS SysOps Administrator Associate Training
-* AWS Developer Associate Training
+- AWS Certified Solutions Architect – Associate
+- Certified Kubernetes Administrator (CKA) – Linux Foundation / CNCF
+- AWS Certified Cloud Practitioner
 
 ---
 
 ## 🎯 Areas of Interest
 
-Cloud Engineering, Platform Engineering, DevOps, Infrastructure Automation, Kubernetes, AI Infrastructure, Monitoring, and Production Support.
+Cloud Engineering • Platform Engineering • DevOps • AWS • Infrastructure Automation • Kubernetes • Monitoring • Production Support
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: add your LinkedIn link here
-* GitHub: add your GitHub link here
+- LinkedIn: https://www.linkedin.com/in/connectwithmeenakshisharma/
+- Email: reach2meenakshi.sharma@gmail.comub link here
 * Email: [reach2meenakshi.sharma@gmail.com](mailto:reach2meenakshi.sharma@gmail.com)

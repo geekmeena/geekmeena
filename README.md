@@ -90,5 +90,4 @@ Cloud Engineering • Platform Engineering • DevOps • AWS • Infrastructure
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/connectwithmeenakshisharma/
-- Email: reach2meenakshi.sharma@gmail.comub link here
 * Email: [reach2meenakshi.sharma@gmail.com](mailto:reach2meenakshi.sharma@gmail.com)
